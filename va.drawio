@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-12T11:52:28.543Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="8djxkmDx5mwXbWBi84j0" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-12T12:20:15.968Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="S5zn_KFTa65YasZhmP-5" version="16.2.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2524" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -94,7 +94,7 @@
         <mxCell id="IIxFM2otjkW1qtIXAb-W-26" value="？？？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="580" y="620" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="IIxFM2otjkW1qtIXAb-W-29" value="&lt;font style=&quot;font-size: 15px&quot;&gt;主题：&lt;br&gt;数字人引擎二期重构计划&lt;br&gt;&lt;br&gt;架构及各服务当前的状态：&lt;br&gt;1) 涉及的主要模块为：分句、tts及唇形生成引擎、2d/3d图像渲染引擎、中控；相关的数据流如右图&lt;br&gt;&lt;br&gt;功能点即优先级讨论：&lt;br&gt;1) 见excel&lt;br&gt;2) 如何支持语音驱动分身&lt;/font&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="IIxFM2otjkW1qtIXAb-W-29" value="&lt;font style=&quot;font-size: 15px&quot;&gt;主题：&lt;br&gt;数字人引擎二期重构计划：改造前，改造后&lt;br&gt;&lt;br&gt;架构及各服务当前的状态：&lt;br&gt;1) 涉及的主要模块为：分句、tts及唇形生成引擎、2d/3d图像渲染引擎、中控；相关的数据流如右图&lt;br&gt;&lt;br&gt;功能点即优先级讨论：&lt;br&gt;1) 见excel&lt;br&gt;2) 如何支持语音驱动分身&lt;/font&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-250" y="530" width="320" height="230" as="geometry" />
         </mxCell>
         <mxCell id="IIxFM2otjkW1qtIXAb-W-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
